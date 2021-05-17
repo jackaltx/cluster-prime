@@ -15,3 +15,7 @@ it's pretty.
 To use the Blinkt! version, make sure you have the Blinkt! drivers installed.
 See <https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-blinkt> for
 instructions. Otherwise, use identically to prime.py.
+
+# Jack's Notes
+
+Will use this to test. https://www.iottrends.tech/blog/how-to-cluster-raspberry-pi-4/#Installing_MPI_Message_Passing_Interface
